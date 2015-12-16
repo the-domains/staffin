@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Staffin Family]]></title>
+        <description><![CDATA[The Staffin Family]]></description>
+        <link>https://thegrid.ai/staffin/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 16 Dec 2015 04:19:19 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/staffin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>null</p>]]></description>
+            <link>https://thegrid.ai/staffin/067d3019-13d7-4c70-b40b-1a791f38486f/index.html</link>
+            <guid isPermaLink="false">067d3019-13d7-4c70-b40b-1a791f38486f</guid>
+            <pubDate>Wed, 16 Dec 2015 04:19:17 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
