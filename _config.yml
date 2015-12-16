@@ -1,7 +1,7 @@
 name: Staffin
 favicon: null
-layout_spectrum: 0.7326250344049186
-typography_spectrum: 0.33095913380384445
+layout_spectrum: 1
+typography_spectrum: 0
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.6148169788066298
+    - '#7da5e2'
+    - '#221b1f'
+    - '#e9b695'
+    - '#6d5d4e'
+    - '#dd3a23'
+  brandStrength: 0.5625
   lightness: 0.4629479767754674
   saturation: 0.40828350465744734
   rhythmicContrast: 0.6189009530935436
