@@ -4,7 +4,7 @@
         <description><![CDATA[The Staffin Family]]></description>
         <link>http://staffin.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Dec 2015 03:30:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Dec 2015 03:30:42 GMT</lastBuildDate>
         <atom:link href="http://staffin.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Pajamas]]></title>
@@ -19,13 +19,6 @@
             <link>http://staffin.org/f938c5ea-0602-4a49-bfce-40327b5779ba/index.html</link>
             <guid isPermaLink="false">f938c5ea-0602-4a49-bfce-40327b5779ba</guid>
             <pubDate>Thu, 17 Dec 2015 03:15:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b1f25498-414b-4087-ae9f-05e2f052b044.JPG">]]></description>
-            <link>http://staffin.org/067d3019-13d7-4c70-b40b-1a791f38486f/index.html</link>
-            <guid isPermaLink="false">067d3019-13d7-4c70-b40b-1a791f38486f</guid>
-            <pubDate>Thu, 17 Dec 2015 03:13:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
