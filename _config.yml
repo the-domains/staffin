@@ -1,6 +1,6 @@
 name: Staffin
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0
 typography_spectrum: 0
 title: The Staffin Family
 cta:
@@ -23,7 +23,7 @@ color:
     - '#6d5d4e'
     - '#dd3a23'
   brandStrength: 0
-  lightness: 0.4629479767754674
-  saturation: 0.40828350465744734
-  rhythmicContrast: 0.6189009530935436
+  lightness: 0.5625
+  saturation: 0.375
+  rhythmicContrast: 0.75
 purpose: []
